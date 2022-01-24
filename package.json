@@ -19,6 +19,5 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^1.0.7",
     "vite": "^2.7.2"
-  },
-  "homepage": "https://clever-hoover-a9d805.netlify.app/"
+  }
 }

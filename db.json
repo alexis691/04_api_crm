@@ -1,20 +1,20 @@
 {
   "clientes": [
     {
-      "nombre": "fatima",
-      "empresa": "microsoft",
-      "email": "fatima@gmail.com",
-      "telefono": "",
-      "notas": "",
-      "id": 13
+      "nombre": "Alexis David",
+      "empresa": "devs",
+      "email": "aguilar.you17@gmail.com",
+      "telefono": "77791005",
+      "notas": "Full Stack developer",
+      "id": 1
     },
     {
-      "nombre": "andrea",
-      "empresa": "andrea INC",
-      "email": "andrea@gmail.com",
-      "telefono": "87878454",
-      "notas": "nothing",
-      "id": 14
+      "nombre": "Dayana",
+      "empresa": "english academy",
+      "email": "dayana@gmail.com",
+      "telefono": "79587485",
+      "notas": "",
+      "id": 2
     }
   ]
 }
