@@ -23,7 +23,7 @@ const Formulario = ({cliente, cargando}) => {
             let respuesta
             if(cliente.id){
                 //Editando
-                const url = `http://localhost:4000/clientes/${cliente.id}`
+                const url = `${import.meta.env.VITE_API_URL}/${cliente.id}`
                 //esta es el let de afuera
                 respuesta = await fetch(url, {
                     method: 'PUT',
@@ -35,7 +35,7 @@ const Formulario = ({cliente, cargando}) => {
 
             }else{
                 //Agregando
-                const url = 'http://localhost:4000/clientes'
+                const url = import.meta.env.VITE_API_URL
                 //esta es el let de afuera
                 respuesta = await fetch(url, {
                     method: 'POST',
