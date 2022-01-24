@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "dayana",
+      "empresa": "dayana ingles",
+      "email": "dayana@gmail.com",
+      "telefono": "464598776",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "karen ",
+      "empresa": "karen construcciones",
+      "email": "karen@karen.com",
+      "telefono": "74878754",
+      "notas": "454",
+      "id": 7
+    },
+    {
+      "nombre": "ana",
+      "empresa": "ana ventas",
+      "email": "ana@gmail.com",
+      "telefono": "7795969",
+      "notas": "",
+      "id": 9
+    },
+    {
+      "nombre": "karla",
+      "empresa": "karla yii2",
+      "email": "karla@gmail.com",
+      "telefono": "79797797",
+      "notas": "karla",
+      "id": 10
+    },
+    {
+      "nombre": "fatima",
+      "empresa": "microsoft",
+      "email": "fatima@gmail.com",
+      "telefono": "",
+      "notas": "",
+      "id": 13
+    },
+    {
+      "nombre": "andrea",
+      "empresa": "andrea INC",
+      "email": "andrea@gmail.com",
+      "telefono": "87878454",
+      "notas": "nothing",
+      "id": 14
+    }
+  ]
+}
